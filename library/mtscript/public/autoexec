@@ -1,0 +1,3 @@
+# list all files that should be auto executable if called a macro link.
+# one file per line, include the .mts extension
+auto_exec.mts
