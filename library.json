@@ -2,10 +2,10 @@
   "name": "some-lib",
   "version": "1.0.0",
   "website": "www.rptools.net",
-  "githubUrl": "github.com/RPTools/maptool",
+  "gitUrl": "github.com/RPTools/maptool",
   "authors": [ "RPTools Team" ],
   "license": "GPL 3.0",
-  "namespace": "net.rptools.dropinlib.some-lib",
+  "namespace": "net.rptools.addon.some-lib",
   "description": "My new test library for stuff",
   "shortDescription": "test library",
   "allowsUriAccess": true
