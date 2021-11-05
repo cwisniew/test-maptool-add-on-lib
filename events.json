@@ -1,0 +1,10 @@
+{
+   "events": [
+      { "name": "onInit", "mts": "onInit" },
+      { "name": "onInitClient", "js": "onInitClient"},
+      { "name": "onInitiativeChangeRequest", "js": "onInitiativeChangeRequest" },
+      { "name": "onInitiativeChange", "mts": "onInitiativeChange" },
+      { "name": "onTokenMove", "mts": "onTokenMove" },
+      { "name": "onMultipleTokensMove", "js": ""}
+   ]
+}
