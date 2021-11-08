@@ -6,7 +6,7 @@
    "legacyEvents": [
       { "name": "onInitiativeChangeRequest", "mts": "onInitiativeChangeRequest" },
       { "name": "onInitiativeChange", "mts": "onInitiativeChange" },
-      { "name": "onTokenMove", "mts": "onTokenMove" },
-      { "name": "onMultipleTokensMove", "mts": "onMultipleTokensMove"}
+      { "name": "onTokenMove", "mts": "test/onTokenMove" },
+      { "name": "onMultipleTokensMove", "mts": "test/onMultipleTokensMove"}
    ]
 }
