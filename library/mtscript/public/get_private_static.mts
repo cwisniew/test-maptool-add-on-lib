@@ -1,0 +1,1 @@
+[ data.getStaticData("net.rptools.addon.some-lib", "/test/test-json2.json")]
